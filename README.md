@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harekrushnabehera2006@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Znu5jp2_7BtOql2kkh1BK0e9RkEKS6xU/view?usp=sharing](https://drive.google.com/file/d/1Znu5jp2_7BtOql2kkh1BK0e9RkEKS6xU/view?usp=sharing)
+- 📄 Know about my experiences from my [Portfolio](https://portfolio-terminal-lilac.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
