@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dynamicharekrushna&label=Profile%20views&color=0e75b6&style=flat" alt="dynamicharekrushna" /> </p>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **JS,J2SE,J2EE**
 
